@@ -18,7 +18,7 @@ E-commerce website that allows user to login and purchase items, also see their 
 ```
 
 ## Usage
-- This e-commerce website are sortec by categories.
+- This e-commerce website are sorted by categories.
 - Users are able add items from the homepage, category page and product detail page(PDP).
 - Users also able to delete item from PDP or cart.
 - Users also able to update the quantity of the items in the cart.
